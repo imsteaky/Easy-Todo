@@ -3,22 +3,22 @@ View this project on Glitch https://scrap-todo.glitch.me/
 
 <br> A simple, elegant todo list built in JS
 <br>
-Prerequisites: 
-Coming soon(tm)
+<br>Prerequisites: 
+<br>Coming soon(tm)
 
-Built With: 
-Express - The web framework used 
-Font Awesome
+<br>Built With: 
+<br>Express - The web framework used 
+<br>Font Awesome
 
 
-Versioning: 
-0.1 - First Upload 
-Coming soon - mongoDB, multiple days
+<br>Versioning: 
+<br>0.1 - First Upload 
+<br>Coming soon - mongoDB, multiple days
 
-Authors: 
-Cole Dambrosio 
-Colt Steele - part of his webdev bootcamp
+<br>Authors: 
+<br>Cole Dambrosio 
+<br>Colt Steele - part of his webdev bootcamp
 
-Acknowledgments: 
-Colt Steele 
-Coach for always believing in me
+<br>Acknowledgments: 
+<br>Colt Steele 
+<br>Coach for always believing in me
