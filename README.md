@@ -7,8 +7,9 @@ View this project on Glitch https://scrap-todo.glitch.me/
 <br>Coming soon(tm)
 
 <br>Built With: 
-<br>Express - The web framework used 
+<br>Javascript
 <br>Font Awesome
+<br>Bootstrap
 
 
 <br>Versioning: 
